@@ -1,7 +1,4 @@
-mkdir Prueba
-cd Prueba
-git init
-echo "Este proyecto va ser la leche!" > README
-git add README
-git commit -m 'Primer Commint de mi gran Proyecto'
+Bienvenidos
+este es una contribucion para la mejora de php
+
 
